@@ -1,0 +1,7 @@
+C:\Users\429193-20\Desktop\lab.work-1\lab.work-1\obj\Debug\lab.work-1.csprojAssemblyReference.cache
+C:\Users\429193-20\Desktop\lab.work-1\lab.work-1\obj\Debug\lab.work-1.csproj.CoreCompileInputs.cache
+C:\Users\429193-20\Desktop\lab.work-1\lab.work-1\bin\Debug\lab.work-1.exe.config
+C:\Users\429193-20\Desktop\lab.work-1\lab.work-1\bin\Debug\lab.work-1.exe
+C:\Users\429193-20\Desktop\lab.work-1\lab.work-1\bin\Debug\lab.work-1.pdb
+C:\Users\429193-20\Desktop\lab.work-1\lab.work-1\obj\Debug\lab.work-1.exe
+C:\Users\429193-20\Desktop\lab.work-1\lab.work-1\obj\Debug\lab.work-1.pdb
